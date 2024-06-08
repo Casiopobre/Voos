@@ -1,0 +1,11 @@
+"nome do cliente" "data de nacemento" "documento de identidade" "email" "num de voo" "asento"
+John_Doe 1990-05-15 123456789 john.doe@example.com QWERTYUI 15
+Alice_Smith 1985-10-20 987654321 alice.smith@example.com ASDFGHJK 22
+Michael_Johnson 1978-07-03 567891234 michael.johnson@example.com W6Y8A0K5 10
+Emily_Brown 1993-12-28 345678912 emily.brown@example.com Q2R9N7P0 5
+David_Wilson 1982-03-10 789123456 david.wilson@example.com S1X3C6Z9 12
+Sophia_Martinez 1995-08-07 234567891 sophia.martinez@example.com T4V6Y8H2 9
+James_Taylor 1970-11-25 678912345 james.taylor@example.com U5I8O2E3 18
+Olivia_Anderson 1988-06-18 456789123 olivia.anderson@example.com R3F5W1Q0 3
+Daniel_Thomas 1977-09-30 891234567 daniel.thomas@example.com V9J2K6P8 7
+Emma_Wilson 1991-04-05 012345678 emma.wilson@example.com N0M4U6T8 20

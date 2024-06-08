@@ -1,0 +1,11 @@
+"número de referencia" "compañía" "data" "hora de saída" "orixe" "destino" "prezo" "número de asentos totais" "número de prazas dispoñibles"
+QWERTYUI Vueling 2024-03-24 10:29 Londres Nueva_York 537.82 214 84
+P5B92G3R Ryanair 2024-03-18 13:47 París Sídney 758.42 249 0
+W6Y8A0K5 Iberia 2024-03-19 09:12 Madrid Dubái 460.11 185 63
+Q2R9N7P0 Lufthansa 2024-03-14 21:55 Berlín Nueva_York 738.18 187 42
+S1X3C6Z9 AirFrance 2024-03-08 19:40 Roma Sídney 471.75 238 153
+T4V6Y8H2 Vueling 2024-03-17 08:50 Londres Dubái 303.34 211 67
+U5I8O2E3 Ryanair 2024-03-24 17:37 París Nueva_York 607.67 161 48
+R3F5W1Q0 Iberia 2024-03-27 23:02 Madrid Los_Ángeles 224.18 234 199
+V9J2K6P8 Lufthansa 2024-03-20 14:33 Berlín Los_Ángeles 447.65 155 48
+N0M4U6T8 AirFrance 2024-03-07 16:21 Roma Tokio 836.73 279 121
